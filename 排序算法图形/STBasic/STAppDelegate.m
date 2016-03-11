@@ -80,6 +80,7 @@
         int cj;
         
         int j = i;
+        
         while (j>0&&(cj = c[j-1])>ci)
         {
             c[j] = cj;
