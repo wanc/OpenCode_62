@@ -53,6 +53,8 @@ NSURLSessionUploadTask上传文件会用到;
 github上较好的一个例子
 <https://github.com/mpospese/IntroducingCollectionViews>
 
+<https://github.com/chiahsien/CHTCollectionViewWaterfallLayout>
+
 
 
 
